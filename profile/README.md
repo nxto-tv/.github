@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png" alt="Nextologies Logo" width="400">
+  <img src="./logo.png" alt="Nextologies Logo" width="400">
 </p>
 
 # Welcome to Nextologies
